@@ -1,0 +1,24 @@
+body h1{
+    font-size:40px;
+    text-transform: uppercase;
+}
+header{
+    background-color:#264653;
+}
+.bike p{
+    width: 70%;
+    color: white;
+}
+.text p{
+    color: salmon;
+}
+
+/* futucher-bike */
+.futucher-bike img{
+    filter: grayscale(100%);
+}
+.futucher-bike img:hover{
+    filter: grayscale(0%);
+}
+
+/*end futucher-bike */
